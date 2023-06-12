@@ -1,6 +1,8 @@
 
 /*
+ * chart test
 area chart ±×¸®±â
+
 http://www.java2s.com/Code/Java/Chart/JFreeChartAreaChartDemo.htm
 
 import org.jfree.ui.Spacer; 
