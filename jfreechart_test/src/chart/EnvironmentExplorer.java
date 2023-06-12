@@ -1,6 +1,7 @@
 /*pie chart 
 G 라이브러리 추가*/
-
+//
+//commit test
 package chart;
 
 import java.awt.AWTEvent;
