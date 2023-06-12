@@ -89,7 +89,7 @@ public class AreaChartDemo extends ApplicationFrame {
     public AreaChartDemo(final String title) {
 
         super(title);
-
+        System.out.println("test");
         // create a dataset...
         final double[][] data = new double[][] {
             {1.0, 4.0, 3.0, 5.0, 5.0, 7.0, 7.0, 8.0},
